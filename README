@@ -1,0 +1,9 @@
+
+That project is part of the showcase platform for C++ projects.
+
+It is named 'meta', as it wraps the other components in order to integrate
+them. The 'meta' project is very thin, and does contain any code nor test.
+It is made of a (Ruby) Rake file, and its accompanying YAML-formatted
+parameter file.
+
+
